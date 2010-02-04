@@ -51,6 +51,9 @@
 ;;    cursor
 ;;    default = (rx "`!!'")
 
+;;; TODO:
+;; Support `non string this-command-keys'.
+
 (require 'cl)
 
 (defgroup smartchr nil
